@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "run": "node index.js",
+    "run": "node app.js",
     "test": "node test.js"
   },
   "repository": {
